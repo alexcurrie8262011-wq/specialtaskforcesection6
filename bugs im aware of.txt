@@ -1,2 +1,3 @@
 bugs im aware of as of right now:
 mythic pity says 250, but its actually 500.
+leddio fight is broken
