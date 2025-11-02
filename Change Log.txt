@@ -1,0 +1,43 @@
+Update log.
+1.0: game release.
+
+1.1: a worse outcome - gregg and bug fixes!
+i would have delayed this update a bit if i didnt have to fix bugs. heres everything thats for this update:
+------------------------------------------- changes:
+increased guardians hp to 300.
+decreased jims hp to 225
+made made jim fatal to blunt
+increased jims corrosion moveset damage.
+made guardians blunt resisstancne from 1 to 1.2
+buffed truggs passive from 10% to 25% healed
+talis wanted to be mentioned
+-------------------------------------------- additions:
+new card: a worse outcome - gregg
+gives gregg a new, more powerful moveset.
+move 1: dusk blast
+3 die skill.
+die 1: 2 targets, inflict 4 bleed, min roll 6 max roll 13. pierce die.
+die 2: min roll 6, max roll 13, pierce, inflicts 7 bleed.
+die 3: min roll 7, max roll 14, gains 10 charge, inflicts 6 bleed, pierce.
+skill 2: droid beamming.
+4 die skill
+die 1: min roll 7, max roll 15, targets all, +125% more damage per enemy, gain 15 charge, inflict 15 bleed. slash.
+die 2-4: min roll 9, max roll 18, targets all, does 200% damage against a single enemy, inflicts 6 bleed, pierce.
+skill 3: Gourd Crystal Beam
+6 die skill
+die 1: min roll 10, max roll 20, cocsts 10 charge, on kill refund 10 charge, inflict 10 bleed. pierce die.
+die 2-5: min roll 10, max roll 20, inflict 10 bleed, pierce.
+skill 4: Be tarnished: dawn blast
+3 die skill
+die 1: min roll 13, max roll 26, targets all enemies, inflicts 20 bleed, costs 40 charge. pierce die.
+die 2: min roll 8, max roll 16, inflicts 7 bleed, pierce.
+die 3: min roll 10, max roll 20, inflicts 2 bleed, pierce.
+this card removes access to greggs ultimate as a cost for the more powerful moveset.
+------------------------------------------------------ bug fixes
+fixed the pity text saying pity/250 instead of pity/500.
+fixed the ledio fight.
+fixed stage 13.
+------------------------------------------------------ compensation
+to compensate for my lack of competence in testing my game, i will give 10 free 10 pulls.
+2500 residual!
+awesome sauce, thanks for reading!
