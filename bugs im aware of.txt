@@ -1,4 +1,1 @@
 bugs im aware of as of right now:
-mythic pity says 250, but its actually 500.
-ledio doesnt second phase if you kill him with turn damage
-stage 13 doesnt work.
