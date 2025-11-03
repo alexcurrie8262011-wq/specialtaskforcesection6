@@ -1,1 +1,3 @@
 bugs im aware of as of right now:
+gregg can infstack charge
+gregg worse outcome card doesnt spend charge
