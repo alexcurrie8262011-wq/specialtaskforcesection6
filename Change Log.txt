@@ -41,3 +41,24 @@ fixed stage 13.
 to compensate for my lack of competence in testing my game, i will give 10 free 10 pulls.
 2500 residual!
 awesome sauce, thanks for reading!
+---------------------------------------------------
+
+
+
+1.2: a battle against incompetent morons.
+
+--------------------------------------------------changes:
+nerfed jims damage.
+changed ledios moveset
+---------------------------------------------------addidtions:
+new enemies:
+the freaky one
+the brainrotted one
+evil and insane crystal demon
+weird lord clone
+new 5 stages
+new type of battle (set ally battle)
+------------------------------------------------bug fixes:
+fixed greggs new moveset and charging stacking infinintely.
+-------------------------------------------------compensation:
+7500 total residue for all these mistakes.
