@@ -50,6 +50,7 @@ awesome sauce, thanks for reading!
 --------------------------------------------------changes:
 nerfed jims damage.
 changed ledios moveset
+increased rip limit
 ---------------------------------------------------addidtions:
 new enemies:
 the freaky one
