@@ -1,1 +1,4 @@
 bugs im aware of as of right now:
+some ultimates dont work at all
+scrolling is broken in fusion tab.
+enemies displayed as allies dont have their info displayed (ex: rolls)
