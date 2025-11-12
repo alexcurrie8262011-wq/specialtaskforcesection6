@@ -63,3 +63,27 @@ new type of battle (set ally battle)
 fixed greggs new moveset and charging stacking infinintely.
 -------------------------------------------------compensation:
 7500 total residue for all these mistakes.
+
+
+1.3: dragon hunt event featuring hunter!
+changes ------------------------------------------------:
+decreased ammount of bleed a worse  outcome - gregg inflicts with this skill 3
+increased bleed ammount inflicted by his skill 4
+reworked rip
+instead of fixed damage, you burst rip with certain skills.
+buffed talis's rolls.
+removed herobrine
+bug fixes ---------------------------------------------:
+fixed many different bugs.
+fixed talis's skill 3-2 not activating.
+additions ----------------------------------------------:
+dragon hunt event
+(ends on the 30th)
+hunter jim
+wounding: gain more bleed equal to this stack, take 10% damage for each of this stack. (max 3)
+bleed and bolts freaky one trugg
+bolting rip: take 1% more damage per stack of this effect (max 120)
+touched thoroughly:when rip is bursted, lose 10x this effects stack less rip (max 10 stack)
+cutscene where gregg kills ledio
+compensation: alot of residual.
+new cutscene 
