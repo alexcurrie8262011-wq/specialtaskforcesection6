@@ -94,3 +94,4 @@ bug fixes ------------------------------------------:
 fixed residue mine
 fixed the display of wounding
 fixed game crashing when checking temp allies index.
+fixed another crash that makes the game unplayable with hunter jim.
