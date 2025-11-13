@@ -86,4 +86,11 @@ bolting rip: take 1% more damage per stack of this effect (max 120)
 touched thoroughly:when rip is bursted, lose 10x this effects stack less rip (max 10 stack)
 cutscene where gregg kills ledio
 compensation: alot of residual.
-new cutscene 
+new cutscene
+
+
+1.3.5: dragon hunt patch
+bug fixes ------------------------------------------:
+fixed residue mine
+fixed the display of wounding
+fixed game crashing when checking temp allies index.
