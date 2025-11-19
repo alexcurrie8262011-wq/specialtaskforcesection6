@@ -95,3 +95,8 @@ fixed residue mine
 fixed the display of wounding
 fixed game crashing when checking temp allies index.
 fixed another crash that makes the game unplayable with hunter jim.
+1.4 and 1.5:
+added violent and insane crystal demon gregg
+added freaky one trugg
+fixed some bugs
+blahblahblahblehblehblehbluhbluhbluh
