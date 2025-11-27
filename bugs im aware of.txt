@@ -1,3 +1,1 @@
-bugs im aware of as of right now:
-hunter jim can make wounding go up to 4.
-wounding is displayed as "touched"
+1: intertwining gets applied to mercs instead of enemies
