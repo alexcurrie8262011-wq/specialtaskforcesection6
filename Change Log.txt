@@ -100,3 +100,17 @@ added violent and insane crystal demon gregg
 added freaky one trugg
 fixed some bugs
 blahblahblahblehblehblehbluhbluhbluh
+
+
+
+1.5: the "im done delaying bleed and bolts talis!" update
+added:
+activate bleed conditionals to some mercs
+bleed and bolts talis
+general rework of the game
+global deck
+residual deck that buffs cards
+(do not check enemy index, you will see final boss for truggs story there, dont spoil it)
+discord!
+fixed: alot of bugs.
+no compensation, im tired and i'll compensate alot more next update. have fun! tutorial is good now.
